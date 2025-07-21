@@ -1,26 +1,31 @@
-Nash Tool 2.0
-Nash Tool 2.0 is a powerful, all-in-one Windows optimization and debloating script written in batch (.bat). It features over 40 advanced options to improve system performance, disable unnecessary services, block telemetry, clean temporary files, download cat pictures, and much more — all designed for users who want fine control over their Windows environment.
+# Nash Tool 2.0
 
-Features
-Comprehensive Windows debloat & bloatware removal
+Nash Tool 2.0 is a powerful Windows optimization and debloat batch script featuring 40+ functions to improve system performance, disable telemetry, manage services, apply tweaks, and more.
 
-Telemetry and tracking disable/enable options
+## Features
 
-Service management (disable/enable critical & non-critical services)
+- Remove bloatware and unnecessary apps  
+- Enable/disable telemetry and tracking  
+- Manage Windows services  
+- Apply and revert performance tweaks  
+- Block telemetry via hosts file  
+- Show system info and hardware details  
+- Download random cat pictures for fun  
+- Display your public IP (with caution)  
+- And many more utilities...
 
-Performance tweaks and system optimizations
+## Usage
 
-Hosts file modifications to block telemetry domains
+1. Run the `NashTool2.0.bat` script as Administrator.  
+2. Select an option from the menu to perform the desired action.  
+3. Follow any on-screen prompts.  
 
-System info and hardware diagnostics viewer
+**Warning:** This tool modifies system settings. Use responsibly and back up important data.
 
-Download random cat pictures for a fun touch
+## License
 
-Public IP display for user awareness
+This project is open for personal use only. Redistribution or commercial use is not permitted without permission.
 
-And many more…
+---
 
-Usage
-Run the script as Administrator. Select the desired option from the menu to perform the corresponding optimization or maintenance task.
-
-Note: This tool modifies system settings and files. Use with caution and back up important data before proceeding.
+*Created by Nash*
